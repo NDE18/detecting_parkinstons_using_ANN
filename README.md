@@ -1,2 +1,6 @@
 # detecting_parkinstons_using_ANN
-The model can be used to differentiate healthy people from people having Parkinson’s disease. We used Artificial Neural Network
+## Steps:
+1. Scale continuous data
+2. Build our classifier using Keras library
+3. Evaluation (Cross validation)
+We obtained an occuracy of 92%.
